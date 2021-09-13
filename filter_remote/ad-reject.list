@@ -14,3 +14,9 @@ DOMAIN, branch.io, reject
 
 #去掉YouTube++底部广告
 DOMAIN, ehg-youtube.hitbox.com, reject
+
+# Netease Music Advertising
+DOMAIN,admusicpic.music.126.net,reject
+DOMAIN,iadmat.nosdn.127.net,reject
+DOMAIN,iadmusicmat.music.126.net,reject
+DOMAIN,iadmusicmatvideo.music.126.net,reject
